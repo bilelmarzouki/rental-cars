@@ -1,0 +1,74 @@
+{
+    "cars" : [
+        {
+            "_id": "1",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Altroz/7247/1578642800962/front-left-side-47.jpg",
+          "name":"Tata ALtroz",
+          "rentPerHour": "50eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+
+        },
+        
+        {
+          "_id": "2",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/KWID/8593/Renault-KWID-Climber-1.0-AMT-Opt-DT/1630912585387/front-left-side-47.jpg",
+          "name": "Renault KWID",
+          "rentPerHour": "65eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        },
+        {
+          "_id": "3",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/i20/6986/1604567349336/front-left-side-47.jpg",
+          "name": "Hyundai i20",
+          "rentPerHour": "65eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        },
+        {
+          "_id": "4",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift/8378/1644834798148/front-left-side-47.jpg",
+          "name": "Maruti Swift",
+          "rentPerHour": "60eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        },
+        {
+          "_id": "5",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Xcent-Prime/8272/1611036374237/front-left-side-47.jpg",
+          "name": "Hyundai Xcent Prime",
+          "rentPerHour": "45eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        },
+        {
+          "_id": "6",
+          
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Carens/8424/1639715612993/front-left-side-47.jpg",
+          "name": "Kia Carens",
+          "rentPerHour": "52eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        },
+        {
+          "_id": "7",
+          
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Land-Cruiser/8448/1623313668941/front-left-side-47.jpg",
+          "name": "Toyota Land Cruiser",
+          "rentPerHour": "55eur/ ",
+          "fuelType": "petrol",
+          "capacity": 5,
+          "bookedTimeSlots": []
+        }
+     
+    
+      ]
+      
+} 
